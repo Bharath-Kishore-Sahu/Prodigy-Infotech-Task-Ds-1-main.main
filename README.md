@@ -1,2 +1,1 @@
-# Prodigy-Infotech-Task-Ds-1-main.main
-Prodigy-Infotech-Task-Ds-1-main.main69
+# Prodigy-Infotech-Task-Ds-1-main
